@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in VBScript related to implicit type coercion. The bug.vbs file contains a function with an If statement that exhibits unexpected behavior due to this issue. The bugSolution.vbs file provides a corrected version with explicit type checking.
